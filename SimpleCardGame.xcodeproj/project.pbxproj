@@ -11,6 +11,8 @@
 		2F6BD4BE264F0DF80075D617 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6BD4BD264F0DF80075D617 /* ContentView.swift */; };
 		2F6BD4C0264F0DFA0075D617 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F6BD4BF264F0DFA0075D617 /* Assets.xcassets */; };
 		2F6BD4C3264F0DFA0075D617 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F6BD4C2264F0DFA0075D617 /* Preview Assets.xcassets */; };
+		2F6BD4CB264F0EE50075D617 /* InfoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6BD4CA264F0EE50075D617 /* InfoPage.swift */; };
+		2F6BD4CD264F100F0075D617 /* GameUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6BD4CC264F100F0075D617 /* GameUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		2F6BD4BF264F0DFA0075D617 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F6BD4C2264F0DFA0075D617 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2F6BD4C4264F0DFA0075D617 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F6BD4CA264F0EE50075D617 /* InfoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPage.swift; sourceTree = "<group>"; };
+		2F6BD4CC264F100F0075D617 /* GameUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				2F6BD4BB264F0DF80075D617 /* SimpleCardGameApp.swift */,
 				2F6BD4BD264F0DF80075D617 /* ContentView.swift */,
+				2F6BD4CC264F100F0075D617 /* GameUI.swift */,
+				2F6BD4CA264F0EE50075D617 /* InfoPage.swift */,
 				2F6BD4BF264F0DFA0075D617 /* Assets.xcassets */,
 				2F6BD4C4264F0DFA0075D617 /* Info.plist */,
 				2F6BD4C1264F0DFA0075D617 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				2F6BD4BE264F0DF80075D617 /* ContentView.swift in Sources */,
 				2F6BD4BC264F0DF80075D617 /* SimpleCardGameApp.swift in Sources */,
+				2F6BD4CB264F0EE50075D617 /* InfoPage.swift in Sources */,
+				2F6BD4CD264F100F0075D617 /* GameUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
