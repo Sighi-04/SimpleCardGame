@@ -15,7 +15,7 @@ struct GameUI: View {
     @State var eseguito:Bool=false;
     //Function to get a random int between 1 and 14
     func genera1_14() -> Int {
-        let random = Int.random(in: 2..<14)
+        let random = Int.random(in: 2..<15)
         return random
     }
     //Function to find the winner of the match
