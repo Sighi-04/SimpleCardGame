@@ -11,14 +11,16 @@ I have implemented some functions to actually have some kind of gameplay. Whenev
  - The cards change related to the numbers which got generated
  - Whoever gets the higher number, gets one point. If the numbers are the same, both the player and the CPU receive one point.
  <img src="gamegif.gif" width="290" height="628">
-
+## Notes
+The launch screen is currently not present because storyboard is crap, and the layout doesn't work on every device, so I just removed it for now
 
 ## Credits
 - Game assets from [CodeWithChris course](https://www.youtube.com/watch?v=F2ojC6TNwws&pp=qAMBugMGCgJpdBAB)
 - App and LaunchScreen icon from [Flaticon website](https://www.flaticon.com/free-icon/playing-cards_4474884?term=card+game&related_id=4474884&origin=tag)
+## Done
+- Game menu
+- Info page
 
 ## To do
 - Separate functions from ContentView
-- Game menu
 - Leaderboard, game history
-- Info and credits page in the app
