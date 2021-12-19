@@ -11,6 +11,7 @@ I have implemented some functions to actually have some kind of gameplay. Whenev
  - The cards change related to the numbers which got generated
  - Whoever gets the higher number, gets one point. If the numbers are the same, both the player and the CPU receive one point.
  <img src="gamegif.gif" width="290" height="628">
+ 
 ## Notes
 The launch screen is currently not present because storyboard is crap, and the layout doesn't work on every device, so I just removed it for now
 
